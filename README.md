@@ -1,6 +1,6 @@
 # 📚 AluraBook
 
-<img width="1905" height="939" alt="Screenshot_22" src="https://github.com/user-attachments/assets/f443392d-a877-444a-9f65-30de726fe983" />
+<img width="1905" height="939" alt="Screenshot_22" src="https://github.com/user-attachments/assets/3dfc2807-f921-45ab-8d05-b8998568f155" />
 
 
 Um catálogo interativo de livros com foco em Front-end, Back-end e Dados. O **AluraBook** permite explorar, filtrar e organizar uma coleção de livros técnicos de forma dinâmica utilizando HTML, CSS e JavaScript — com dados reais de uma API pública.
@@ -91,7 +91,4 @@ LinkedIn: João Victor Nascimento Adão
 Confira meus projetos e habilidades nos links abaixo:
 
 🔗 **Versão hospedada no Vercel**  
-https://alura-code-connect-neon.vercel.app/
-
-🔗 **Versão hospedada no GitHub Pages**  
-https://yjoaovictor10.github.io/alura-code-connect/
+https://alurabook-part2.vercel.app/
